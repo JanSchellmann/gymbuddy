@@ -1,5 +1,5 @@
 // Service Worker: hält alle App Dateien offline bereit
-const VERSION = 'gymbuddy-v1.18.1';
+const VERSION = 'gymbuddy-v1.19.0';
 const ASSETS = [
   "./",
   "./index.html",
